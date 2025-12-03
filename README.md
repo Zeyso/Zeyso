@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyso&label=Profile%20views&color=0e75b6&style=flat" alt="zeyso" /> </p>
 
-- 🔭 I’m currently working on [socialsculpt.xyz](https://socialsculpt.xyz)
+- 🔭 I’m currently working on [socialsculpt.xyz](https://cheatlounge.xyz)
 
 </p>
 
